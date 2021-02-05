@@ -15,6 +15,12 @@ Install asdf version manager according to its instructions. As of February 5, 20
 git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.8.0
 ```
 
+You should also be able to run this as well if you prefer:
+
+```bash
+asdf update
+```
+
 Using [Fisherman](https://github.com/fisherman/fisherman), install the plugin:
 
 ```bash
